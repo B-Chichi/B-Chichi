@@ -48,7 +48,7 @@ I’m open to working on *impactful projects that empower users and communities*
 
 ##  Connect with Me
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)](https://github.com/B-Chichi)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=fff)](https://linkedin.com/in/your-link)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/brian-bett-5aba192aa)  
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff)](mailto:brian2000bett@gmail.com)
 
 ---
