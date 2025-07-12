@@ -1,12 +1,12 @@
 # 👋 Hi there, I’m *Brian Bett*
 
-👨‍💻 *Full-Stack Developer | Web Applications Enthusiast*  
+*Full-Stack Developer | Web Applications Enthusiast*  
 Passionate about building *scalable, user-centric web apps* with clean, responsive designs and robust backends.
 
 ---
 
-## 🚀 Recently Completed
-✅ *Event Planner App*  
+##  Recently Completed
+ *Event Planner App*  
 I recently finished working on an event planner app with my team:  
 🔗 [Live Demo](https://event-planner-frontend-production.up.railway.app/)  
 - Plan and manage events effortlessly
@@ -15,7 +15,7 @@ I recently finished working on an event planner app with my team:
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=fff)
@@ -34,24 +34,24 @@ I recently finished working on an event planner app with my team:
 
 ---
 
-## 🧠 What I’m Learning
+##  What I’m Learning
 - Advanced deployment strategies
 - Community-focused app features
 - Scalable architectures
 
 ---
 
-## 🤝 Let’s Collaborate
+##  Let’s Collaborate
 I’m open to working on *impactful projects that empower users and communities* — feel free to reach out!
 
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)](https://github.com/B-Chichi)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=fff)](https://linkedin.com/in/your-link)  
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff)](mailto:brian2000bett@gmail.com)
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 ![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=B-Chichi&show_icons=true&theme=radical)
