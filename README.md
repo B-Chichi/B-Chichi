@@ -1,6 +1,6 @@
 👋 Hi there, I'm Brian Bett
 
-Full-Stack Developer | Web Applications Enthusiast based in Nairobi, Kenya @[brianbettportfolio.vercel.app]
+Full-Stack Developer | Web Applications Enthusiast based in Nairobi, Kenya [Portfolio](brianbettortfolio.vercel.app)
 
 Passionate about building scalable, user-centric web apps with clean, responsive designs and robust backends.
 
